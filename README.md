@@ -16,9 +16,11 @@ SQL Server: کلوز سورس با مجوز تجاری، نسخه محدود ش�
 مدل اصلی هر سه دیتابیس، رابطه ای است.
 
 مدل های فرعی پشتیبانی شده:<br>
-Document store, Graph DBMS, Spatial DBMS :Oracle<br>
-Document store, Spatial DBMS :MySQL<br>
-Document store, Graph DBMS, RDF store, Spatial DBMS, Vector DBMS :SQL Server
+<p>
+Oracle: Document store, Graph DBMS, Spatial DBMS <br>
+MySQL: Document store, Spatial DBMS<br>
+SQL Server: Document store, Graph DBMS, RDF store, Spatial DBMS, Vector DBMS
+</p>
 
 مقیاس پذیری:<br>
 Oracle: مقیاس پذیری فوق العاده، مناسب برای برنامه های سازمانی بزرگ<br>
@@ -41,9 +43,10 @@ MySQL: دوم<br>
 SQL Server: سوم
 
 سیستم عامل های سازگار:<br>
-Linux, Windows :Oracle<br>
-FreeBSD, Linux, OS X, Solaris, Windows :MySQL<br>
-AIX, HP-UX, Linux, OS X, Solaris, Windows, z/OS :SQL Server
-
+<p>
+Oracle: Linux, Windows<br>
+MySQL: FreeBSD, Linux, OS X, Solaris, Windows<br>
+SQL Server: AIX, HP-UX, Linux, OS X, Solaris, Windows, z/OS
+</p>
 
 </p>
