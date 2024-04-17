@@ -17,9 +17,9 @@ SQL Server: کلوز سورس با مجوز تجاری، نسخه محدود ش�
 
 مدل های فرعی پشتیبانی شده:<br>
 <p>
-Oracle: Document store, Graph DBMS, Spatial DBMS <br>
+Oracle: Document store, Graph DBMS, RDF store, Spatial DBMS, Vector DBMS <br>
 MySQL: Document store, Spatial DBMS<br>
-SQL Server: Document store, Graph DBMS, RDF store, Spatial DBMS, Vector DBMS
+SQL Server: Document store, Graph DBMS, Spatial DBMS
 </p>
 
 مقیاس پذیری:<br>
