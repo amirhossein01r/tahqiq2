@@ -44,9 +44,9 @@ SQL Server: سوم
 
 سیستم عامل های سازگار:<br>
 <p>
-Oracle: Linux, Windows<br>
+Oracle: AIX, HP-UX, Linux, OS X, Solaris, Windows, z/OS<br>
 MySQL: FreeBSD, Linux, OS X, Solaris, Windows<br>
-SQL Server: AIX, HP-UX, Linux, OS X, Solaris, Windows, z/OS
+SQL Server: Linux, Windows
 </p>
 
 </p>
